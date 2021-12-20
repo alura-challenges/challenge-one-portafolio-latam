@@ -6,7 +6,7 @@ En la siguiente tabla están todos los proyectos que USTEDES están construyendo
 En caso de que tu estes participando de este Challenge y desees que tu proyecto aparezca en esta vitrina, adiciona el hashtag #challengeonefrontdndlatam dentro de `Topics` en tu repositorio público.
 
 
-| Pessoa que criou o projeto | Projeto |
+| Creador del proyecto | Proyecto |
 | --- | --- |
 | <!-- CHANNEL_PROJECTS:START -->
-|  <!-- CHANNEL_PROJECTS:END -->
+| <!-- CHANNEL_PROJECTS:END -->
