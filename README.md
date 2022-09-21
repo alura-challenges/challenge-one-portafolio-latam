@@ -30,18 +30,19 @@
 2) Publicarlo en GitHub Pages: [¿Cómo publicar mi proyecto con GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 3) Utiliza el tema/topic:
 
- - Grupo 2: **challengeoneportafoliolatam2**
- - Grupo 3: **challengeoneportafoliolatam3**
+ - Grupo 2: **challengeoneportafolio2**
+ - Grupo 3: **challengeoneportafolio3**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeoneportafoliolatam2**" o "**challengeoneportafoliolatam3**" dependiendo de el grupo al que pertenezcas.
+Incluye la etiqueta "**challengeoneportafolio2**" o "**challengeoneportafolio3**" dependiendo de el grupo al que pertenezcas.
 
 ### ¿Cómo hago la entrega final de mi proyecto?
 ---
 4) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
 🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
 
-![image](https://user-images.githubusercontent.com/101413385/169072826-e314d525-e2b4-45e9-887d-baa3fa488b98.png)
+![screencapture-lp-alura-br-alura-latam-lp-entrega-de-challenge-one-esp-2022-09-21-16_38_31](https://user-images.githubusercontent.com/101413385/191595376-6e1408a6-859e-4fb5-855c-6571cec8f9c3.png)
+
 
 5) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este Challenge 🏆
 6) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
