@@ -42,21 +42,50 @@ https://en.bem.info/methodology/quick-start/*/
 /*Sección Menu*/
 
 section.menu{
-
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3rem;
 }
 
+section.menu header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+section.menu nav ul {
+    display: flex;
+    gap: 1rem
+}
 /*Sección Title*/
-
 section.title{
-
+    padding: 1rem 3rem;
 }
 
+section.title div.title__div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.title__bio{
+    font-size: 4.5rem;
+}
+
+.title__network{
+    display: flex;
+    gap: 1rem;
+}
 /*Sección About*/
 
 section.about{
-
+    padding: 2rem 3rem;
+    background-color: rgb(200, 223, 243);
 }
 
+.about__container{
+    width: 55%;
+}
 /*Sección Hobbies*/
 
 section.hobbies{
